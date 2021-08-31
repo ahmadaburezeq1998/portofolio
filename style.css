@@ -1,0 +1,95 @@
+*{
+    background-color: #24524d;
+    /* box-sizing: border-box; */
+}
+.projectimg{
+    background-color: white;
+    height: 70%;
+    width: 50%;
+    border: rgba(20, 152, 228, 0.897) solid 19px;
+    padding: 10%;
+}
+
+#meimg{
+    width: 30%;
+    height: 30%;
+    border-radius: 10px;
+    border-radius: 15px;
+    /* border: 15px solid white ; */
+    
+}
+
+#rightdiv{
+    /* display: inline-block; */
+    position: absolute;
+    right: 6%;    
+    top: 38%;
+    font-size: 200%;
+    padding: 3%;
+    background-color:#FB8B24  ;
+    border-radius: 10px;
+}
+
+#linkedin{
+    background-color:white ;
+}
+#detailsp{
+    background-color:white ;
+    border-radius: 10px;
+    text-align: center;
+}
+#reachmep{
+background-color: white;
+border-radius: 10px;
+text-align: center;
+}
+#myname{
+    background-color: white;
+    font-size: 200%;
+    width: 25%;
+    padding: 1%;
+    border: 10px solid #FB8B24 ;
+    text-align: center;
+}
+
+#build{
+    background-color: #FB8B24;
+    border: 10px solid white ;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 250%;
+}
+
+#languages{
+    font-size: 300%;
+    background-color: rebeccapurple;
+    width: 50%;
+    background-color: #f24c00;
+    border-radius: 10px;
+}
+#langul li{
+    background-color: #fcca46;
+    font-size: 180%;
+    width: 20%;
+    border-radius: 10px;
+}
+
+#look{
+    font-size: 300%;
+    background-color: #f24c00;
+    width: fit-content;
+    border-radius: 10px;
+}
+
+a{
+    font-size: 300%;
+    background-color: #f24c00;
+    text-decoration: none;
+    
+}
+
+#snowimg{
+    margin: 3%;
+    /* padding: 10px; */
+    border-radius: 10px;
+}
